@@ -1,0 +1,27 @@
+.box {
+  position: relative;
+}
+
+.box--2 {
+  left: 100px;
+  bottom: 100px;
+}
+
+.box--3 {
+  left: 200px;
+  bottom: 200px;
+}
+
+.box--4 {
+  left: 300px;
+  bottom: 300px;
+}
+
+.box--5 {
+  left: 400px;
+  bottom: 400px;
+}
+
+.box:nth-child(odd) {
+  background: black;
+}

@@ -1,0 +1,33 @@
+.box--tall {
+  height: 700px;
+  width: 300px;
+}
+
+.box--medium {
+  height: 300px;
+  width: 275px;
+}
+
+.bottom-aligned {
+  position: absolute;
+  bottom: 0;
+}
+
+.right-aligned {
+  position: absolute;
+  right: 0;
+}
+
+.box--1 {
+  position: relative; /* position everything relative to this box */
+}
+
+.box--2 {
+  background: black;
+  right: -137px; /* half of box--medium width */
+}
+
+.box--3 {
+  background: #aaa;
+  bottom: -100px; /* half of box width */
+}
