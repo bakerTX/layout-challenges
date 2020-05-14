@@ -1,0 +1,20 @@
+.box--1 {
+  height: 600px;
+  width: 300px;
+  position: relative;
+}
+
+.box--2,
+.box--3 {
+  background: black;
+  position: absolute;
+  left: 50px;
+}
+
+.box--2 {
+  top: 0;
+}
+
+.box--3 {
+  bottom: 0;
+}

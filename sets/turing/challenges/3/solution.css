@@ -1,0 +1,13 @@
+.box--1 {
+  margin: 0 auto;
+  position: relative;
+  height: 400px;
+  width: 400px;
+}
+
+.box--2 {
+  position: absolute;
+  left: 25%;
+  bottom: 25%;
+  background: black;
+}

@@ -1,0 +1,9 @@
+.box--1 {
+  background: black;
+}
+
+.box--2 {
+  position: relative;
+  left: 100px;
+  bottom: 100px;
+}

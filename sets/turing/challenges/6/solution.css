@@ -1,0 +1,27 @@
+.box--1 {
+  min-width: 600px;
+  min-height: 300px;
+}
+
+.box--2,
+.box--3 {
+  background: black;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.top-right {
+  position: absolute;
+  right: 0;
+  top: 0;
+}

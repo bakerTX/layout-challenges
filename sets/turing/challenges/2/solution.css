@@ -1,0 +1,11 @@
+.row {
+  display: flex;
+}
+
+.row--2 {
+  justify-content: center;
+}
+
+.row--3 {
+  justify-content: flex-end;
+}
