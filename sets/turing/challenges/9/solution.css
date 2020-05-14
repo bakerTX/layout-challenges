@@ -1,0 +1,18 @@
+.box--1 {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  padding: 40px;
+  width: 550px;
+}
+
+.box--2,
+.box--3 {
+  background: black;
+}
+
+.floating-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
